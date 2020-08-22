@@ -10,5 +10,5 @@ Include the downloaded file [jdf.php] in proper place in your project such as <c
 <code>include ('../includes/jdf.php');</code>
 <br />
 Now you can use 'jdate' function to convert dates!
-<br />
-# Checkout examples:
+<hr />
+<h2>Checkout examples:</h2>
