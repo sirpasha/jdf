@@ -8,3 +8,5 @@ First of all download and include jdf.php from their official website:
 Include the downloaded file [jdf.php] in proper place in your project such as <code>path/to/includes</codes>
 <br />
 <code><?php include ('../includes/jdf.php'); ?></code>
+<br />
+Now you can use 'jdate' function to convert dates!
