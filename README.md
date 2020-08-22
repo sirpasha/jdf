@@ -2,4 +2,9 @@
 JDF is a PHP library to convert Gregorian Calendar Dates to Jalali and Vice-Versa, Here we gathered some examples to use inside your projects/softwares.
 <hr />
 First of all download and include jdf.php from their official website:
-<code>http://jdf.src.ir</code>
+<br />
+<code>https://jdf.scr.ir/download/</code>
+<br />
+Include the downloaded file [jdf.php] in proper place in your project such as <code>path/to/includes</codes>
+<br />
+<code><?php include ('../includes/jdf.php'); ?></code>
