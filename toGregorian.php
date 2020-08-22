@@ -1,8 +1,9 @@
 <?php
+  //First include jdf.php
+  include('path/to/jdf.php');
   // jdf.php uses 'jalali_to_gregorian' function to convert Jalali Date to Gregorian
   // This function gets 'year', 'month' and 'day' as Integer as first to third parameters.
-  // fourth parameter is used for Formatting
-  
+  // fourth parameter is used for Formatting  
   $year = 1399; // Jalali year as Integer
   $month = 5; // Jalali month as Integer
   $day = 31; // Jalali day as Integer
