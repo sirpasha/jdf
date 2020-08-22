@@ -5,7 +5,7 @@ First of all download and include jdf.php from their official website:
 <br />
 <code>https://jdf.scr.ir/download/</code>
 <br />
-Include the downloaded file [jdf.php] in proper place in your project such as <code>path/to/includes</codes><br />
+Include the downloaded file [jdf.php] in proper place in your project such as <code>path/to/includes</code>
 <br />
 <code>include ('../includes/jdf.php');</code>
 <br />
