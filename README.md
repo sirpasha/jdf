@@ -16,3 +16,5 @@ Now you can use 'jdate' function to convert dates!
   <li>WHMCS Hook</li>
   <li>Custom PHP</li>
 </ul>  
+<hr />
+<small>I will update this repo soon!</small>
