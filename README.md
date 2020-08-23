@@ -11,4 +11,8 @@ Include the downloaded file [jdf.php] in proper place in your project such as <c
 <br />
 Now you can use 'jdate' function to convert dates!
 <hr />
-<h2>Checkout examples:</h2>
+<h2>Checkout examples</h2>
+<ul>
+  <li>WHMCS Hook</li>
+  <li>Custom PHP</li>
+</ul>  
